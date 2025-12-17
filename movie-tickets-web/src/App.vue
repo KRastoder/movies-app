@@ -2,6 +2,7 @@
   <div>
     <h1>{{ message }}</h1>
     <button @click="testPing">Test API</button>
+
   </div>
 </template>
 
